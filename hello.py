@@ -1,4 +1,4 @@
 import helper
-print ("hello")
+print ("Hello")
 
-helper.greeting("Hiya")
+helper.greeting("Hiya, person.")
