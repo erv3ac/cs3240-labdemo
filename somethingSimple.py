@@ -1,1 +1,0 @@
-print("Turtles are pretty cool.")
